@@ -28,7 +28,8 @@ twitter_username: berlinpatililer
 github_username:  berlinpatili
 
 # Build settings
-theme: minima
+#theme: minima
+theme: jekyll-theme-so-simple
 plugins:
   - jekyll-feed
 
