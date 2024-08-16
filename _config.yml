@@ -21,7 +21,7 @@
 title: Berlin Patililer
 email: berlinpatili@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Berlin Patililer, Berlin'de yasayan hayvanseverlerin bir araya gelerek olusturdugu, kar amaci gütmeyen bir insiyatiftir. 
+  Berlin Patililer is an initiative where pet-lovers in Berlin come together. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 logo: "/_images/patililerlogo_200x200.png"
