@@ -1,8 +1,8 @@
 ---
 title: "How to fly with a pet?"
 image: 
-  path: /_images/pet-flight.jpg
-  thumbnail: /_images/pet-flight-400x200.jpg
+  path: /assets/images/_posts/pet-flight-400x200.jpg
+  thumbnail: /assets/images/_posts/pet-flight-400x200.jpg
   caption: "Photo from [Pexels](https://www.pexels.com)"
 ---
 
