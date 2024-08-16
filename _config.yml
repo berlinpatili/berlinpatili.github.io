@@ -101,10 +101,10 @@ defaults:
 
 footer_links:
   - title: Twitter
-    url: https://twitter.com/berlinptaililer
+    url: https://twitter.com/berlinpatililer
     icon: fab fa-twitter-square
   - title: Instagram
-    url: https://instagram.com/berlinptaililer
+    url: https://instagram.com/berlinpatililer
     icon: fab fa-instagram
 #  - title: GitHub
 #    url: https://github.com/mmistakes
