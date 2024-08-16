@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Berlin Patililer, Berlin'de yasayan hayvanseverlerin bir araya gelerek olusturdugu, kar amaci gütmeyen bir insiyatiftir. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-logo: "/images/patililerlogo.svg"
+logo: "/images/patililerlogo_200x200.png"
 
 date_format: "%B %-d, %Y"
 read_time: true
